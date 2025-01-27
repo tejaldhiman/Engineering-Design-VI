@@ -1,12 +1,13 @@
 # Tejal Dhiman
 ## Portfolio
 ### Stevens Institute of Technology
-**bold**
-*italic*
-> block quote
-1. first item
-2. second item
-3. third item
+**Engineering Design VI**
+*I pledge my honor that I have abided by the Stevens Honor System.*
+> This Repo will list my interests:
+1. Audio Engineering
+- 
+3. second item
+4. third item
 - first item
 - second item
 - third item
