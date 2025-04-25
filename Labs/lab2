@@ -1,0 +1,148 @@
+#Lab 2 — Command Line
+
+## Instructions:
+Go to the IOT repository. Review Lessons 1 and 2. Then, open a terminal and enter the following commands:  
+`hostname`, `env`, `ps`, `pwd`, `git clone https://github.com/kevinwlu/iot.git`,  
+`cd iot`, `ls`, `cd`, `df`, `mkdir demo`, `cd demo`, `nano file`, `cat file`, `cp file file1`,  
+`mv file file2`, `rm file2`, `clear`, `man uname`, `uname -a`, `ifconfig`, `ping localhost`, `netstat`.  
+Document results to GitHub repository.
+
+---
+
+## `hostname`
+This command displays the computer's network host name.  
+![hostname](Lab2_images/hostname.png)
+
+---
+
+## `env`
+This command displays the computer's environment variables.  
+![env](Lab2_images/env.png)
+
+---
+
+## `ps`
+This command displays information about running processes on the computer.  
+![ps](Lab2_images/ps.png)
+
+---
+
+## `pwd`
+This command displays the full path of the current directory.  
+![pwd](Lab2_images/pwd.png)
+
+---
+
+## `git clone`
+This command makes a copy of the specified repository to your machine.  
+![git clone](Lab2_images/git_clone.png)
+
+---
+
+## `cd iot`
+This command changes the working directory to the newly cloned `iot` folder.  
+![cd iot](Lab2_images/cd_iot.png)
+
+---
+
+## `ls`
+This command lists all files in the current directory.  
+![ls](Lab2_images/ls.png)
+
+---
+
+## `cd`  
+This command changes directories (returns to home).  
+![cd](Lab2_images/cd.png)
+
+---
+
+## `df`
+This command displays disk space usage.  
+![df](Lab2_images/df.png)
+
+---
+
+## `mkdir demo`
+This command creates a new directory named `demo`.  
+![mkdir](Lab2_images/mkdir_demo.png)
+
+---
+
+## `cd demo`
+This command moves into the `demo` directory.  
+![cd demo](Lab2_images/cd_demo.png)
+
+---
+
+## `nano file`
+This opens a text editor to write a file named `file`.  
+![nano](Lab2_images/nano_file.png)
+
+---
+
+## `cat file`
+This command displays the contents of the file.  
+![cat](Lab2_images/cat_file.png)
+
+---
+
+## `cp file file1`
+This copies `file` into a new file called `file1`.  
+![cp](Lab2_images/cp.png)
+
+---
+
+## `mv file file2`
+This renames or moves `file` to `file2`.  
+![mv](Lab2_images/mv.png)
+
+---
+
+## `rm file2`
+This command deletes `file2`.  
+![rm](Lab2_images/rm.png)
+
+---
+
+## `clear`
+This command clears the terminal screen.  
+![clear](Lab2_images/clear.png)
+
+---
+
+## `man uname`
+This command opens the manual page for `uname`.  
+![man uname](Lab2_images/man_uname.png)
+
+---
+
+## `uname -a`
+This command displays detailed system information.  
+![uname -a](Lab2_images/uname_a.png)
+
+---
+
+## `ifconfig`
+This displays all network interfaces and IP addresses.  
+![ifconfig](Lab2_images/ifconfig.png)
+
+---
+
+## `ping localhost`
+This tests the network stack by sending packets to your own machine.  
+![ping](Lab2_images/ping.png)
+
+---
+
+## `netstat`
+This displays active network connections and listening ports.  
+![netstat](Lab2_images/netstat.png)
+
+---
+
+## Summary
+This lab explored various terminal commands. By completing this lab I was able to learn some fundamental terminal commands regarding system information, process and directory management, file operations, networks, and GIT version control.
+
+**Author:** Tejal Dhiman  
+I pledge my honor that I have abided by the Stevens Honor System.
