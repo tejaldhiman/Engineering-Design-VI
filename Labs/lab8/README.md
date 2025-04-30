@@ -3,7 +3,12 @@
 ## Data Analysis
 
 ### Instructions
-
+1. Go to the GitHub repository for Lesson 8.
+2. Install required Python packages
+3. Save the Lab 7 Google Sheet as a CSV file and move it to your working directory
+4. Copy the analysis scripts from Lesson 8
+5. Edit both plt_final.py and plt_cv2.py to read the correct CSV file and update the column names or titles as needed
+6. Run the Python scripts
 ---
 
 ## Instlaling Python Libraries
@@ -45,6 +50,5 @@
 ![Figure_7](https://github.com/user-attachments/assets/392724e7-af28-4864-9224-7551ebcfba12)
 
 ## Conclusion
-
-
-
+In this lab, I analyzed CPU usage and memory availability data collected from a Raspberry Pi. I created different types of plots using Python, including time series graphs, histograms, box plots, and a scatter plot with a regression line. I also used cross-validation to predict CPU usage from memory data. This helped me better understand how to visualize data and apply machine learning to find patterns.
+> I pledge my honor that I have abided by the Stevens Honor System.
