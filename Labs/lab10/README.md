@@ -3,8 +3,14 @@
 ## Blockchain
 
 ### Instructions
-
-
+1. Navigate to the Lesson 10 directory  
+2. Run the hash test script twice and observe
+3. Execute the basic blockchain script to display chained blocks   
+4. Start the SnakeCoin Flask server  
+6. In a second terminal, submit a blockchain transaction  
+7. Mine a new block to record the transaction  
+8. Clone the blockchain web app from GitHub  
+9. Open a browser at `http://127.0.0.1:5000`, post a message, click “Request to mine,” then “Resync” to view the new block
 
 ## Hash and Blockchain
 > First I verified hash of same value changes with randomness.
